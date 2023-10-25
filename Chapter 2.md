@@ -111,4 +111,12 @@
  
 ![image](https://github.com/wtxd1234/Data-Communication/assets/41671135/a1fcf1ca-19dd-4e3c-b446-8a7663b39652)
 
+### Wavelength (λ)
+- Distance occupied by one cycle
+- Between two points of corresponding相关 phase in two consecutive连续 cycles
+- assuming signal velocity v have λ = vT
+- or equivalently λf = v
+  - especially when v=c
+    - c = 3*108 ms-1 (speed of light in free space)
 
+![image](https://github.com/wtxd1234/Data-Communication/assets/41671135/ba617758-bece-42a7-92d6-c0eba6e9023f)
