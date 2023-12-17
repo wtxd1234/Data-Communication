@@ -1,8 +1,12 @@
 These notes will cover the key concepts and relationships in data communication, including aspects of data link layer, protocols, switching methods, and error detection techniques.
 
-### 1. **aB=0, Impact on P1 and P2**
-   - **Concept**: This appears to refer to a formula or principle in data communication.
-   - **Impact**: Without additional context, it's challenging to determine the exact impact on P1 and P2. This could relate to signal processing or communication protocols.
+### 1. **dB = 0, Impact on P1 and P2**
+   - **dB (Decibels)**: A logarithmic unit used to measure the ratio of power levels. In this context, "dB = 0" implies that there is no gain or loss in the power level.
+   - **Impact on P1 and P2**:
+     - **P1 (Power Level 1)**: If this is the input power level, then with a dB of 0, it means there is no amplification or attenuation in the signal.
+     - **P2 (Power Level 2)**: This would be the output power level after transmission. With dB = 0, P2 would be equal to P1, indicating that the signal retains its original power level through the transmission.
+
+Understanding this concept is important in data communication, as it relates to signal strength and integrity during transmission. dB levels are crucial in assessing the effectiveness of transmission mediums and the need for amplifiers or repeaters.
 
 ### 2. **Bandwidth (Lowest and Highest Frequency)**
    - **Definition**: Bandwidth is the difference between the highest and lowest frequencies in a continuous set of frequencies.
